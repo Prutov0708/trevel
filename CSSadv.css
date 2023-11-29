@@ -1,0 +1,54 @@
+.yamechtau {
+	text-align: center;
+	color: red;
+}
+.ekb {
+	color: blue;
+}
+
+.podzEkb {
+	color: black;
+	margin-left: 30px;
+}
+.opisanieEkb {
+	margin-left: 30px;
+}
+.msk {
+	color: blue;
+}
+.podzMsk {
+	color: black;
+	margin-left: 30px;
+}
+.opisanieMsk {
+	margin-left: 30px;
+}
+.spb {
+	color: blue;
+}
+.podzSpb {
+	color: black;
+	margin-left: 30px;
+}
+.opisanieSpb {
+	margin-left: 30px;
+}
+.Baykal {
+	color: blue;
+}
+.podzBkl {
+	color: black;
+	margin-left: 30px;
+}
+.opisanieBkl {
+	margin-left: 30px;
+}
+.img {
+	width: 300px;
+	height: 300px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+.mimg {
+	margin-right: 30px;
+}
